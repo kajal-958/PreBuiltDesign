@@ -1,0 +1,16 @@
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\bin\Debug\net8.0-windows\PrebuiltDesigns.exe
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\bin\Debug\net8.0-windows\PrebuiltDesigns.deps.json
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\bin\Debug\net8.0-windows\PrebuiltDesigns.runtimeconfig.json
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\bin\Debug\net8.0-windows\PrebuiltDesigns.dll
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\bin\Debug\net8.0-windows\PrebuiltDesigns.pdb
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.Form1.resources
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.csproj.GenerateResource.cache
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.AssemblyInfoInputs.cache
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.AssemblyInfo.cs
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.csproj.CoreCompileInputs.cache
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.dll
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\refint\PrebuiltDesigns.dll
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.pdb
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\PrebuiltDesigns.genruntimeconfig.cache
+C:\Users\kajal\OneDrive\Desktop\SODV2101 RAPID\PrebuiltDesigns\PrebuiltDesigns\obj\Debug\net8.0-windows\ref\PrebuiltDesigns.dll
